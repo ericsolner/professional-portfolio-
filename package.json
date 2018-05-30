@@ -1,0 +1,20 @@
+{
+  "name": "professional-portfolio-",
+  "version": "1.0.0",
+  "description": "Eric Solner's Portfolio",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericsolner/professional-portfolio-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericsolner/professional-portfolio-/issues"
+  },
+  "homepage": "https://github.com/ericsolner/professional-portfolio-#readme"
+}
