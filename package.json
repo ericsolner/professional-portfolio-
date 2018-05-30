@@ -4,7 +4,7 @@
   "description": "Eric Solner's Portfolio",
   "main": "gulpfile.js",
   "scripts": {
-    "start": "index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
